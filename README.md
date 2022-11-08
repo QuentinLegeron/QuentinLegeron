@@ -22,6 +22,7 @@ I'm currently learning to code in HTLM, CSS, JS, Python, PHP, C#, C++ and now ev
 
 # Fun fact I love animals:
 I have 2 cats, 1 dog, 2 hedgehogs and a lots of fish and shrimps
+
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ---
