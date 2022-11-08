@@ -6,7 +6,7 @@
 
 # I'm a student in web development.
 
-I'm currently learning to code in HTLM, CSS, JS, Python, PHP, C#, C++ and now even Markdown
+I'm currently learning to code in HTLM, CSS, JS, Python, PHP, C# and even Markdown
 
 ---
 
