@@ -16,6 +16,7 @@ I'm currently learning to code in HTLM, CSS, JS, Python, PHP, C#, C++ and now ev
 - I do theatre as an actor and director. 
 - ⚡ I paint, I play guitar, I dance a bit, and I'm also a big Gamer. 
 - 😄 I regularly speedrun roguelite/rogelike. 
+
 ![Alt Text](https://c.tenor.com/nilt-4dGFWsAAAAM/bible-thump-binding-of-isaac.gif)
 
 ---
